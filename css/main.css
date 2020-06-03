@@ -147,3 +147,7 @@ li a:hover{
         font-size: 1.1rem;
     }
 }
+#navbar a:hover{
+    background: black;
+    color:white;
+}
