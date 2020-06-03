@@ -1,13 +1,17 @@
-    #what i have learned from this project is :
+## what i have learned from this project is :
 
-* how to use the positiion property in css  .
+    * how to use the positiion property in css  .
 
-* how to best pratice the media query's in css3.
+    * how to best pratice the media query's in css3.
 
-    #what is it about ??
+## what is it about ??
     
-* its  actual the forth part of the freeCodeCamp projects
+    * its  actual the forth part of the freeCodeCamp projects
 
-*a Really good Challenge in css 
+    *A Really good Challenge in css 
 
- Enjoy ^_^
+# Enjoy ^_^
+
+
+
+
